@@ -1,0 +1,6 @@
+chromadb
+python-dotenv
+openai
+gradio
+langchain
+langchain-openai

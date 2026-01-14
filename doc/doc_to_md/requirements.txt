@@ -1,0 +1,7 @@
+mammoth
+markdownify
+pymupdf4llm
+pandas
+openpyxl
+xlrd
+tabulate
