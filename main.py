@@ -334,7 +334,7 @@ def agente_funcional(pregunta, categoria, tipo_busqueda, mostrar_fuentes=True):
         
         # 4. Crear prompt especializado para preguntas funcionales
         template = """Eres un asistente experto en la aplicación ScanGasto. 
-Utiliza el siguiente contexto de documentación para responder la pregunta del usuario de forma precisa y detallada.
+Utiliza el siguiente contexto de documentación para responder la pregunta del usuario de forma precisa y detallada. Todos los documentos son de proyectos ejecutados y que están desarrollados.
 
 Categoría de la pregunta: {categoria}
 Tipo de búsqueda: {tipo_busqueda}
